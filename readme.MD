@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Miran Firdausi</h1>
 <h3 align="center">A passionate Full-stack Web Developer from India</h3>
 
+- 🌱 I’m currently learning **Flutter App Development, Artificial Intelligence and Machine Learning**
+
 - 💬 Ask me about **Django and MERN**
 
 - 📫 How to reach me **miranfirdausi027@gmail.com**
