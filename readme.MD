@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Miran Firdausi</h1>
 <h3 align="center">A passionate Full-stack Web Developer from India</h3>
 
+- 💬 Ask me about **Django and MERN**
+
+- 📫 How to reach me **miranfirdausi027@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
