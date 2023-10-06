@@ -1,3 +1,4 @@
+[![An image of @miranfirdausi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miranfirdausi)](https://holopin.io/@miranfirdausi)
 <h1 align="center">Hey, I'm Miran</h1>
 <h3 align="center">A passionate Full-stack Web Developer from India</h3>
 
