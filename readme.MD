@@ -1,3 +1,5 @@
+[![An image of @miranfirdausi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miranfirdausi)](https://holopin.io/@miranfirdausi)
+
 <h1 align="center">Hey, I'm Miran</h1>
 <h3 align="center">A passionate Full-stack Web Developer</h3>
 
@@ -12,8 +14,6 @@
 - 💬 Ask me about **Django and MERN**
 
 - 📫 How to reach me **miranfirdausi027@gmail.com**
-
-[![An image of @miranfirdausi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miranfirdausi)](https://holopin.io/@miranfirdausi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
