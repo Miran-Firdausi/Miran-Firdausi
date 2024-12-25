@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api/top-langs?username=miran-firdausi&show_icons=true&locale=en&layout=compact" alt="miran-firdausi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api?username=miran-firdausi&show_icons=true&locale=en&show=prs_merged_percentage,reviews" alt="miran-firdausi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api?username=miran-firdausi&show_icons=true&locale=en&show=prs_merged_percentage,reviews" alt="miran-firdausi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miran-firdausi&" alt="miran-firdausi" /></p>
