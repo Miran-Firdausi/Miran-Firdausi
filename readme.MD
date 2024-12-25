@@ -30,6 +30,6 @@
     <td><img src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api/top-langs?username=miran-firdausi&show_icons=true&locale=en&layout=compact&langs_count=20" alt="miran-firdausi" /></td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;"><img src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api?username=miran-firdausi&show_icons=true&locale=en&show=prs_merged_percentage,reviews" alt="miran-firdausi" /></td>
+    <td colspan="2" align="center"><img src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api?username=miran-firdausi&show_icons=true&locale=en&show=prs_merged_percentage,reviews" alt="miran-firdausi" /></td>
   </tr>
 </table>
