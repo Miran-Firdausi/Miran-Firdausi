@@ -25,6 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api/top-langs?username=miran-firdausi&show_icons=true&locale=en&layout=compact" alt="miran-firdausi" /></p>
 <br>
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api?username=miran-firdausi&show_icons=true&locale=en&show=prs_merged_percentage,reviews" alt="miran-firdausi" /></p>
 
