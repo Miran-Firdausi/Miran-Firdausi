@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miran-firdausi&label=Profile%20views&color=0e75b6&style=flat" alt="miran-firdausi" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miran-firdausi&theme=discord&column=5&row=2&margin-w=15&margin-h=15&title=-Reviews" alt="miran-firdausi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miran-firdausi&theme=discord&column=4&row=2&margin-w=15&margin-h=15&title=-Reviews" alt="miran-firdausi" /></a> </p>
 
 - 🔬 I’m currently researching on **Multi-modal analysis of Time series data**
 
