@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **miranfirdausi027@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miran-firdausi&theme=discord&column=4&row=2&margin-w=15&margin-h=15&title=-Reviews" alt="miran-firdausi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miran-firdausi&theme=discord&column=4&row=2&margin-w=15&margin-h=15" alt="miran-firdausi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
