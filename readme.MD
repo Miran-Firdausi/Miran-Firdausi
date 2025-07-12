@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miran-firdausi&label=Profile%20views&color=0e75b6&style=flat" alt="miran-firdausi" /> </p>
 
 <h1 >Hey, I'm Miran</h1>
-<h3 align="center">Full-stack Web Developer</h3>
+<h3 align="center">Full-stack Web Developer</h3>  
+
 - I’m currently researching on **Multi-modal analysis of Time series data**
 - Ask me about anything **Web**
 - How to reach me **miranfirdausi027@gmail.com**
