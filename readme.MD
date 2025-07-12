@@ -1,15 +1,14 @@
 [![An image of @miranfirdausi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miranfirdausi)](https://holopin.io/@miranfirdausi)
 
-<h1 align="center">Hey, I'm Miran</h1>
-<h3 align="center">A passionate Full-stack Web Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miran-firdausi&label=Profile%20views&color=0e75b6&style=flat" alt="miran-firdausi" /> </p>
 
+<h1 >Hey, I'm Miran</h1>
+<h3 align="center">Full-stack Web Developer</h3>
 - I’m currently researching on **Multi-modal analysis of Time series data**
 - Ask me about anything **Web**
 - How to reach me **miranfirdausi027@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miran-firdausi&theme=discord&column=5&row=2&margin-w=15&margin-h=15" alt="miran-firdausi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miran-firdausi&margin-w=15&margin-h=15" alt="miran-firdausi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
