@@ -43,13 +43,13 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=miran-firdausi&theme=default" alt="GitHub Streak" height="200"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api?username=miran-firdausi&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide=stars&custom_title=Miran's%20GitHub%20Stats" alt="GitHub Stats" height="200"/>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api/top-langs?username=miran-firdausi&show_icons=true&locale=en&layout=compact&langs_count=8" alt="Top Languages" height="200"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api/top-langs?username=miran-firdausi&show_icons=true&locale=en&layout=compact&langs_count=8" alt="Top Languages" height="200"/>
+    <td>
+      <img src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api?username=miran-firdausi&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide=stars&custom_title=Miran's%20GitHub%20Stats" alt="GitHub Stats" height="200"/>
     </td>
   </tr>
 </table>
