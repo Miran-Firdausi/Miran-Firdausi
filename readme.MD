@@ -36,6 +36,40 @@
 | 🥇 FOSS Hack 2025 | Winner |
 
 
+### ⚛️ Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,next,tailwind,sass,materialui,capacitor)](https://skillicons.dev)
+
+---
+
+### 🛠 Backend
+[![My Skills](https://skillicons.dev/icons?i=django,nodejs,express,php,spring,flask,fastapi)](https://skillicons.dev) 
+
+---
+
+### 🗄 Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite)](https://skillicons.dev)
+
+---
+
+### ☁️ DevOps & Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,githubactions,jenkins)](https://skillicons.dev)
+
+---
+
+### 🤖 Machine Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" style="margin-right: 10px;"/>
+</p>
+
+---
+
+
 ### 📊 GitHub Stats:
 
 <table>
