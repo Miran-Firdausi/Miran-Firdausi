@@ -19,10 +19,20 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:miranfirdausi027@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="miranfirdausi027@gmail.com" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="miranfirdausi027@gmail.com" height="30" width="40" />
   </a>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miran-firdausi&" alt="miran-firdausi" />
-<img src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api/top-langs?username=miran-firdausi&show_icons=true&locale=en&layout=compact&langs_count=20" alt="miran-firdausi" />
-<img src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api?username=miran-firdausi&show_icons=true&locale=en&show=prs_merged_percentage,reviews" alt="miran-firdausi" />
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miran-firdausi&theme=default" alt="GitHub Streak" height="200"/>
+
+  <img src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api?username=miran-firdausi&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide=stars&custom_title=Miran's%20GitHub%20Stats" alt="GitHub Stats" height="200"/>
+
+  <img src="https://github-readme-stats-git-main-miran-firdausis-projects.vercel.app/api/top-langs?username=miran-firdausi&show_icons=true&locale=en&layout=compact&langs_count=8" alt="Top Languages" height="200"/>
+
+</div>
+
