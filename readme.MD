@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miran-firdausi&margin-w=15&margin-h=15&title=-Reviews&theme=oldie" alt="miran-firdausi" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/miran-firdausi" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miran-firdausi" height="30" width="40" />
@@ -23,8 +23,20 @@
   </a>
 </p>
 
+### 🏆 Achievements
 
-<h3 align="left">📊 GitHub Stats:</h3>
+| Hackathon/Event | Title |
+|-----------------|-------|
+| 🥇 FOSS Hack 2024 | Winner |
+| 🥇 Synergy by IIIT | Winner |
+| 🥇 WebWeave | 3rd Place |
+| 🏆 Bajaj HackRx 5.0 | Best Innovation |
+| 🏅 Intel AI Hackathon | Finalist |
+| 🏅 Imagine by PanIIT | Top 10 |
+| 🥇 FOSS Hack 2025 | Winner |
+
+
+### 📊 GitHub Stats:
 
 <table>
   <tr>
